@@ -32,7 +32,7 @@
 ## 第三步 3D打印
 在我的小红书中详细介绍了模型处理以及ultimaker的工作流程。像这样一个box比较完美的一点就是它不需要额外的支撑，打印出来就是一体的无需拆卸。
 <p align="center">
-<img src="picture/建模身体.jpg" alt="loading" width="500"/>
+<img src="picture/打印好的box.jpg" alt="loading" width="500"/>
 </p >
 <p align="center">
 <img src="picture/建模身体.jpg" alt="loading" width="500"/>
