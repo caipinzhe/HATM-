@@ -23,7 +23,7 @@
 </p >
 同时还要考虑如何使得盖子可以稳稳地停留在盒子上不会乱跑，于是我做了一个榫卯结构来固定它。
 <p align="center">
-<img src="picture/arduino孔位.jpg" alt="loading" width="500"/>
+<img src="picture/建模盖子.jpg" alt="loading" width="500"/>
 </p >
 
 <p align="center">
