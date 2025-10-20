@@ -35,7 +35,7 @@
 <img src="picture/打印好的box.jpg" alt="loading" width="500"/>
 </p >
 <p align="center">
-<img src="picture/建模身体.jpg" alt="loading" width="500"/>
+<img src="picture/打印好的打开的box.jpg" alt="loading" width="500"/>
 </p >
 
 ## 补充的激光切割部分
