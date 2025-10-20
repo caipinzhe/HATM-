@@ -14,7 +14,7 @@
 ## 第二步 建模
 建立模型除了考虑适应装置功能的形状之外，还要为固定arduino模块作出考量。因此需要测量arduino模块的大小以及孔径以及孔与孔之间的距离。
 <p align="center">
-<img src="picture/半透膜原理.jpg" alt="loading" width="500"/>
+<picture/arduino孔位.jpg" alt="loading" width="500"/>
 </p >
 同时还要考虑如何使得盖子可以稳稳地停留在盒子上不会乱跑，于是我做了一个榫卯结构来固定它。
 
