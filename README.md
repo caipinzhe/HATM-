@@ -42,5 +42,14 @@
 因为一开始没弄清楚要求，落下了激光切割部分，因此只能简单将激光切割部分与整体打印好的box结合。我使用了makecase这个网站，它可以直接调整box的参数，比如最基本的长宽高，“齿”的密度，还有激光切割的补足。
 </p >
 <p align="center">
-<img src="" alt="loading" width="500"/>
+<img src="picture/makecase.png" alt="loading" width="500"/>
+</p >
+最麻烦的部分是不同材料激光切割的宽度也会有所不同，为了让“齿”紧密咬合，必须多试几次来确定激光在该材料上留下的宽度
+</p >
+<p align="center">
+<img src="picture/makecase.png" alt="loading" width="500"/>
+</p >
+</p >
+<p align="center">
+<img src="picture/makecase.png" alt="loading" width="500"/>
 </p >
