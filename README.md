@@ -51,5 +51,6 @@
 </p >
 </p >
 <p align="center">
-<img src="picture/makecase.png" alt="loading" width="500"/>
+<img src="picture/最终结果.jpg" alt="loading" width="500"/>
 </p >
+（因为木板在我的书包中被弯曲了因此它的一侧没法很好地咬合在一起TAT）
