@@ -47,7 +47,7 @@
 最麻烦的部分是不同材料激光切割的宽度也会有所不同，为了让“齿”紧密咬合，必须多试几次来确定激光在该材料上留下的宽度
 </p >
 <p align="center">
-<img src="picture/makecase.png" alt="loading" width="500"/>
+<img src="picture/激光切割部分.jpg" alt="loading" width="500"/>
 </p >
 </p >
 <p align="center">
